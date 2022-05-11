@@ -1,0 +1,4 @@
+requests 
+cv2
+numpy
+imutils
